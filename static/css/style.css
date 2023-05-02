@@ -1,0 +1,8 @@
+.img-container {
+    text-align: right;
+    margin-top: 50px;
+}
+.img-container img {
+    width: 200px;
+    height: auto;
+}
