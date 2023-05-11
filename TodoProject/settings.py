@@ -26,7 +26,7 @@ SECRET_KEY = 'vc32f4!_v6n7t$=^!+3%$c_cr9$(em4rczg-%mq@t3mk&p$j2z'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['*']
 
 
 # Application definition
